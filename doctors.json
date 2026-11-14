@@ -1,0 +1,37 @@
+{
+  "d001": {
+    "name": "Dr. Ahnaf Akbar",
+    "specialty": "Cardiology",
+    "city": "Dhaka",
+    "age": 42,
+    "gender": "male"
+  },
+  "d002": {
+    "name": "Dr. Samira Khan",
+    "specialty": "Pediatrics",
+    "city": "Chattogram",
+    "age": 38,
+    "gender": "female"
+  },
+  "d003": {
+    "name": "Dr. Tanvir Hasan",
+    "specialty": "Dermatology",
+    "city": "Sylhet",
+    "age": 45,
+    "gender": "male"
+  },
+  "d004": {
+    "name": "Dr. Nusrat Islam",
+    "specialty": "Neurology",
+    "city": "Rajshahi",
+    "age": 36,
+    "gender": "female"
+  },
+  "d005": {
+    "name": "Dr. Farhan Chowdhury",
+    "specialty": "Orthopedics",
+    "city": "Khulna",
+    "age": 50,
+    "gender": "male"
+  }
+}

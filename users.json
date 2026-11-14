@@ -1,0 +1,79 @@
+[
+  {
+    "id": "p001",
+    "name": "Amina Rahman",
+    "city": "Dhaka",
+    "age": 28,
+    "gender": "female",
+    "height": 1.62,
+    "weight": 52,
+    "bmi": 19.8,
+    "verdict": "normal"
+  },
+  {
+    "id": "p002",
+    "name": "Rafi Ahmed",
+    "city": "Chattogram",
+    "age": 35,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 92,
+    "bmi": 30.0,
+    "verdict": "overweight"
+  },
+  {
+    "id": "p003",
+    "name": "Nusrat Jahan",
+    "city": "Sylhet",
+    "age": 22,
+    "gender": "female",
+    "height": 1.58,
+    "weight": 44,
+    "bmi": 17.6,
+    "verdict": "underweight"
+  },
+  {
+    "id": "p004",
+    "name": "Imran Hossain",
+    "city": "Rajshahi",
+    "age": 41,
+    "gender": "male",
+    "height": 1.7,
+    "weight": 74,
+    "bmi": 25.6,
+    "verdict": "overweight"
+  },
+  {
+    "id": "p005",
+    "name": "Tania Sultana",
+    "city": "Khulna",
+    "age": 31,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 63,
+    "bmi": 23.1,
+    "verdict": "normal"
+  },
+  {
+    "id": "p006",
+    "name": "Sakib Hasan",
+    "city": "Barishal",
+    "age": 19,
+    "gender": "male",
+    "height": 1.8,
+    "weight": 58,
+    "bmi": 17.9,
+    "verdict": "underweight"
+  },
+  {
+    "id": "p007",
+    "name": "Farhan Kabir",
+    "city": "Dhaka",
+    "age": 46,
+    "gender": "male",
+    "height": 1.72,
+    "weight": 108,
+    "bmi": 36.5,
+    "verdict": "obese"
+  }
+]
